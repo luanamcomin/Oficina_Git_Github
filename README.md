@@ -10,7 +10,7 @@ Este repositório contém materiais e passos para a oficina de Git e GitHub real
 - [Trabalhando com Repositórios Remotos](./4-repositorios-remotos/repositorios-remotos.md)
 - [Colaboração em Projetos](./5-colaboracao/colaboracao.md)
 - [Conclusão e Boas Práticas](./6-boas-praticas/boas-praticas.md)
-- [Materiais Adicionais](./materiais-adicionais.md)
+- [Termos Usados em Git e GitHub](.7-dicionario/termos.md)
 
 ***
 ## Materiais Adicionais
