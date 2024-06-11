@@ -11,3 +11,10 @@ Este repositório contém materiais e passos para a oficina de Git e GitHub real
 - [Colaboração em Projetos](./5-colaboracao/colaboracao.md)
 - [Conclusão e Boas Práticas](./6-boas-praticas/boas-praticas.md)
 - [Materiais Adicionais](./materiais-adicionais.md)
+
+***
+## Materiais Adicionais
+
+- [Documentação do Git](https://git-scm.com/doc)
+- [Guias do GitHub](https://guides.github.com/)
+- [Tutorial Interativo do Git](https://try.github.io/)
