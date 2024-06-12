@@ -1,4 +1,4 @@
-# Oficina de Git e GitHub
+# Oficina de Git e GitHub [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev) 
 
 Este repositório contém materiais e passos para a oficina de Git e GitHub realiazada na Faculdade Senac e ministrada por Luana Martins e Luiz Paulo.
 
