@@ -15,3 +15,9 @@ git config --global user.email "seuemail@example.com"
 ```sh
 git config --list
 ```
+
+**Desvinculando conta**
+```sh
+git config --global --unset user.name
+git config --global --unset user.email
+```
